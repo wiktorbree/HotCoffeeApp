@@ -2,6 +2,8 @@
 
 A SwiftUI-based iOS application for managing coffee orders with Core Data persistence.
 
+<img width="3364" height="2242" alt="HotCoffeeApp" src="https://github.com/user-attachments/assets/52e3919e-3fd6-43e6-bfb3-eefd2e096ddd" />
+
 ## Features
 
 - **Order Management**: Create, view, and delete coffee orders
